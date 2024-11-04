@@ -41,7 +41,7 @@ export default function List() {
       <ul>{chemistItems}</ul>
 
       <h2>Todos los demás</h2>
-      <ul>{chemistItems}</ul>
+      <ul>{otherItems}</ul>
     </article>
   )
 }
